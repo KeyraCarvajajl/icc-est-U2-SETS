@@ -18,8 +18,7 @@ public class App {
     public static void runHashSet(Sets sets) {
         Set<String> resultado = sets.ConstruirHashSet(); 
 
-
-        System.out.println("KEYRA CARVAJAL");
+        System.out.println("Diana Borja");
         System.out.println("----------HashSet----------");
         System.out.println("Elemntos del HashSet (no se garantiza orden)");
 
