@@ -63,4 +63,5 @@ public static void main(String[] args) {
 
 ## Imagen de la ejecución
 ![Resultado de Ejecución](SETS.png)
+![SETS](https://github.com/user-attachments/assets/cc714506-7398-4781-acfd-512d78a74c01)
 
