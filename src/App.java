@@ -1,5 +1,6 @@
 import java.util.Set;
 
+import controllers.ContactoController;
 import controllers.Sets;
 
 public class App {
@@ -12,13 +13,17 @@ public class App {
         runTreeSet(sets);
         runTreeComparatorSet(sets);
         runTreeSetConComparadorDescendente(sets);
-    
+
+        ContactoController contactoController = new ContactoController();
+        contactoController.runTreeContacto(); 
+        contactoController.runTreeContactoComparator();
+
     }
 
     public static void runHashSet(Sets sets) {
         Set<String> resultado = sets.ConstruirHashSet(); 
 
-        System.out.println("Diana Borja");
+        System.out.println("Keyra Carvajal");
         System.out.println("----------HashSet----------");
         System.out.println("Elemntos del HashSet (no se garantiza orden)");
 
