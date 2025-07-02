@@ -59,8 +59,7 @@ public static void main(String[] args) {
     runTreeSetConComparadorDescendente(sets);
 }
 
----
+```
 
 ## Imagen de la ejecución
 ![Resultado de Ejecución](SETS.png)
-
