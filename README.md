@@ -68,4 +68,5 @@ public static void main(String[] args) {
 
 ## Imagen de la ejecución 
 
-![Ejercicios](https://github.com/user-attachments/assets/a655e56c-39ed-41c0-9886-8a48d5865aa3)
+![Ejerciciossss](https://github.com/user-attachments/assets/0319ea81-3621-41b3-9d77-52b3216ab4db)
+
