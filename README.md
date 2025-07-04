@@ -60,7 +60,12 @@ public static void main(String[] args) {
 }
 
 ```
+## Imagen de la ejecución
 ![Comparator (2)](https://github.com/user-attachments/assets/47f77963-8e72-44aa-bf1c-3c04fc8da12c)
 
 ## Imagen de la ejecución
 ![Resultado de Ejecución](SETS.png)
+
+## Imagen de la ejecución 
+
+![Ejercicios](https://github.com/user-attachments/assets/a655e56c-39ed-41c0-9886-8a48d5865aa3)
