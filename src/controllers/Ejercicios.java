@@ -12,7 +12,7 @@ public class Ejercicios {
 
         System.out.println("------------EJERCICIO 2-------------");
         System.out.println("\"murciélago\" es isograma: " + esIsograma("murciélago"));
-        System.out.println("\"murciélagoooo\" es isograma: " + esIsograma("murciélagoooo"));
+        System.out.println("\"camaleón\" es isograma: " + esIsograma("murciélagoooo"));
 
         System.out.println("-----------EJERCICIO 3--------------");
 
